@@ -1,0 +1,28 @@
+{
+    "env": {
+      "browser": true,
+      "es2021": true,
+      "jest": true  
+    },
+    
+    "parser": "@typescript-eslint/parser",
+    "parserOptions": {
+      "ecmaFeatures": {
+        "jsx": true
+      },
+      "ecmaVersion": "latest",
+      "sourceType": "module"
+    },
+    "extends": [
+        "eslint:recommended",
+        "plugin:react/recommended",
+        "plugin:@typescript-eslint/recommended",
+        "prettier"  
+      ],
+      "plugins": ["@typescript-eslint", "react", "react-hooks", "prettier"],
+      
+     "rules": {
+        "no-useless-catch": "off",
+        "@typescript-eslint/no-inferrable-types": "off"
+    }
+  }

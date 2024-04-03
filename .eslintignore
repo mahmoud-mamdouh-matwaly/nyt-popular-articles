@@ -1,0 +1,6 @@
+build
+node_modules
+cypress
+*.test.js
+commitlint.config.cjs
+cypress.config.js
