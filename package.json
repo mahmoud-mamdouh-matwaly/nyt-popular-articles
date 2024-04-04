@@ -31,7 +31,7 @@
     "lint:fix": "eslint --fix 'src/**/*.{js,jsx,ts,tsx,json}'",
     "format": "prettier --write 'src/**/*.{js,jsx,ts,tsx,css,md,json}' --config ./.prettierrc",
     "prepare": "husky",
-    "cypress:open": "npx cypress ope",
+    "cypress:open": "npx cypress open",
     "cypress:run": "npx cypress run"
   },
   "eslintConfig": {

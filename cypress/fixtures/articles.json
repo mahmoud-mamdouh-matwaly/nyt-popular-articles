@@ -1,0 +1,1262 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2024 The New York Times Company.  All Rights Reserved.",
+    "num_results": 20,
+    "results": [
+        {
+            "uri": "nyt://article/54dea93a-deec-59a8-a740-2f9a9287ced1",
+            "url": "https://www.nytimes.com/2024/04/02/business/tesla-auto-sales-first-quarter.html",
+            "id": 100000009387626,
+            "asset_id": 100000009387626,
+            "source": "New York Times",
+            "published_date": "2024-04-02",
+            "updated": "2024-04-03 12:19:37",
+            "section": "Business",
+            "subsection": "",
+            "nytdsection": "business",
+            "adx_keywords": "Electric and Hybrid Vehicles;Company Reports;Automobiles;Prices (Fares, Fees and Rates);Musk, Elon;Tesla Motors Inc;China;Europe;United States",
+            "column": null,
+            "byline": "By Jack Ewing and Neal E. Boudette",
+            "type": "Article",
+            "title": "Tesla’s Sales Drop, a Sign That Its Grip on the E.V. Market Is Slipping",
+            "abstract": "Sales of the company’s electric cars dropped in the first three months of the year, even as other automakers sold more battery-powered vehicles.",
+            "des_facet": [
+                "Electric and Hybrid Vehicles",
+                "Company Reports",
+                "Automobiles",
+                "Prices (Fares, Fees and Rates)"
+            ],
+            "org_facet": [
+                "Tesla Motors Inc"
+            ],
+            "per_facet": [
+                "Musk, Elon"
+            ],
+            "geo_facet": [
+                "China",
+                "Europe",
+                "United States"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Tesla’s relatively flat sales are the latest sign that the company’s dominance of the market for electric cars is slipping.",
+                    "copyright": "Philip Cheung for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/02/multimedia/02tesla-sales-lhzw/02tesla-sales-lhzw-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/02/multimedia/02tesla-sales-lhzw/02tesla-sales-lhzw-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/02/multimedia/02tesla-sales-lhzw/02tesla-sales-lhzw-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/c846976c-a6f3-5355-8128-1217fcf2d960",
+            "url": "https://www.nytimes.com/2024/04/02/climate/global-warming-clouds-solar-geoengineering.html",
+            "id": 100000009373876,
+            "asset_id": 100000009373876,
+            "source": "New York Times",
+            "published_date": "2024-04-02",
+            "updated": "2024-04-03 12:19:11",
+            "section": "Climate",
+            "subsection": "",
+            "nytdsection": "climate",
+            "adx_keywords": "Global Warming;Greenhouse Gas Emissions;Research;Solar Energy;Geoengineering;Carbon Dioxide;Environment;Sunlight;Science and Technology;SilverLining (Nonprofit);University of Washington;Alameda (Calif)",
+            "column": null,
+            "byline": "By Christopher Flavelle and Ian C. Bates",
+            "type": "Article",
+            "title": "Warming Is Getting Worse. So They Just Tested a Way to Deflect the Sun.",
+            "abstract": "A trial in California is testing a machine designed to reflect sunlight back into space. “All my colleagues hope that we never use these things,” one researcher said.",
+            "des_facet": [
+                "Global Warming",
+                "Greenhouse Gas Emissions",
+                "Research",
+                "Solar Energy",
+                "Geoengineering",
+                "Carbon Dioxide",
+                "Environment",
+                "Sunlight",
+                "Science and Technology"
+            ],
+            "org_facet": [
+                "SilverLining (Nonprofit)",
+                "University of Washington"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Alameda (Calif)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A spraying machine designed for cloud brightening on the flight deck of the Hornet, a decommissioned aircraft carrier that is now a museum in Alameda, Calif.",
+                    "copyright": "",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/02/multimedia/02cli-BRIGHTERCLOUDS-new-lfkp/02cli-BRIGHTERCLOUDS-new-lfkp-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/02/multimedia/02cli-BRIGHTERCLOUDS-new-lfkp/02cli-BRIGHTERCLOUDS-new-lfkp-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/02/multimedia/02cli-BRIGHTERCLOUDS-new-lfkp/02cli-BRIGHTERCLOUDS-new-lfkp-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/f1e9c8f1-33af-51c7-a87f-4d09ef31f162",
+            "url": "https://www.nytimes.com/2024/04/02/magazine/instant-coffee-benefits.html",
+            "id": 100000009383702,
+            "asset_id": 100000009383702,
+            "source": "New York Times",
+            "published_date": "2024-04-02",
+            "updated": "2024-04-03 14:58:45",
+            "section": "Magazine",
+            "subsection": "",
+            "nytdsection": "magazine",
+            "adx_keywords": "Coffee;Beans;Filters",
+            "column": null,
+            "byline": "By Peter C. Baker",
+            "type": "Article",
+            "title": "The Case Against ‘Good’ Coffee",
+            "abstract": "Instant coffee tastes … just OK. And that’s fine by me.",
+            "des_facet": [
+                "Coffee",
+                "Beans",
+                "Filters"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Illustration by Marine Buffard",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/07/magazine/07mag-LOR-1/07mag-LOR-1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/07/magazine/07mag-LOR-1/07mag-LOR-1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/07/magazine/07mag-LOR-1/07mag-LOR-1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/2140ef69-4aaf-57cc-8c56-9d72b6033f6c",
+            "url": "https://www.nytimes.com/2024/04/01/books/rabbit-hole-kansas-city.html",
+            "id": 100000009378631,
+            "asset_id": 100000009378631,
+            "source": "New York Times",
+            "published_date": "2024-04-01",
+            "updated": "2024-04-02 23:19:35",
+            "section": "Books",
+            "subsection": "",
+            "nytdsection": "books",
+            "adx_keywords": "Books and Literature;Museums;Children and Childhood;Book Trade and Publishing;Kansas City (Mo);North Kansas City (Mo)",
+            "column": null,
+            "byline": "By Elisabeth Egan and Chase Castor",
+            "type": "Article",
+            "title": "Once Upon a Time, the World of Picture Books Came to Life",
+            "abstract": "The tale behind a new museum of children’s literature is equal parts imagination, chutzpah and “The Little Engine That Could.”",
+            "des_facet": [
+                "Books and Literature",
+                "Museums",
+                "Children and Childhood",
+                "Book Trade and Publishing"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Kansas City (Mo)",
+                "North Kansas City (Mo)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Two generations of readers enjoyed “Caps for Sale” at the Rabbit Hole.",
+                    "copyright": "Chase Castor for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/03/multimedia/27KIDLITMUSEUM1-wqkf/27KIDLITMUSEUM1-wqkf-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/03/multimedia/27KIDLITMUSEUM1-wqkf/27KIDLITMUSEUM1-wqkf-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/03/multimedia/27KIDLITMUSEUM1-wqkf/27KIDLITMUSEUM1-wqkf-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/f70951be-3798-52a7-8515-c74852491471",
+            "url": "https://www.nytimes.com/2024/04/01/business/ncaa-womens-basketball-march-madness.html",
+            "id": 100000009388828,
+            "asset_id": 100000009388828,
+            "source": "New York Times",
+            "published_date": "2024-04-01",
+            "updated": "2024-04-02 13:07:36",
+            "section": "Business",
+            "subsection": "",
+            "nytdsection": "business",
+            "adx_keywords": "Gambling;College Athletics;NCAA Basketball Championships (Women);NCAA Basketball Championships (Men);National Collegiate Athletic Assn",
+            "column": null,
+            "byline": "By Santul Nerkar",
+            "type": "Article",
+            "title": "You Can Bet on Caitlin Clark Making Threes. The N.C.A.A. Isn’t Happy.",
+            "abstract": "Americans will wager $2.7 billion on the N.C.A.A. basketball tournaments this year, raising concerns about what happens to sports when people bet on the performances of student athletes.",
+            "des_facet": [
+                "Gambling",
+                "College Athletics",
+                "NCAA Basketball Championships (Women)",
+                "NCAA Basketball Championships (Men)"
+            ],
+            "org_facet": [
+                "National Collegiate Athletic Assn"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Caitlin Clark, center, drove to the basket in Iowa’s opening game against Holy Cross of this year’s N.C.A.A. tournament.",
+                    "copyright": "Matthew Putney/Associated Press",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/01/multimedia/00ncaabetting-clark-fzgt/00ncaabetting-clark-fzgt-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/01/multimedia/00ncaabetting-clark-fzgt/00ncaabetting-clark-fzgt-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/01/multimedia/00ncaabetting-clark-fzgt/00ncaabetting-clark-fzgt-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/26ff2f97-c338-532d-ae66-29a29c02aeb3",
+            "url": "https://www.nytimes.com/2024/04/02/nyregion/albany-rebecca-lobo.html",
+            "id": 100000009392531,
+            "asset_id": 100000009392531,
+            "source": "New York Times",
+            "published_date": "2024-04-02",
+            "updated": "2024-04-03 12:50:27",
+            "section": "New York",
+            "subsection": "",
+            "nytdsection": "new york",
+            "adx_keywords": "NCAA Basketball Championships (Women);Basketball (College);Television;Apologies;Lobo, Rebecca;Louisiana State University;University of Iowa;Albany (NY)",
+            "column": null,
+            "byline": "By Claire Fahy",
+            "type": "Article",
+            "title": "In the Magnificence of Iowa’s Glow, Albany Catches Some Shade",
+            "abstract": "During the waning moments of Iowa’s victory over L.S.U. on Monday, a stray comment on the televised broadcast cast the New York capital in an unflattering light.",
+            "des_facet": [
+                "NCAA Basketball Championships (Women)",
+                "Basketball (College)",
+                "Television",
+                "Apologies"
+            ],
+            "org_facet": [
+                "Louisiana State University",
+                "University of Iowa"
+            ],
+            "per_facet": [
+                "Lobo, Rebecca"
+            ],
+            "geo_facet": [
+                "Albany (NY)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "While the Iowa Hawkeyes celebrated their win on the court, the businesses surrounding the arena in Albany, N.Y., were dark storefronts.",
+                    "copyright": "Hans Pennink/Associated Press",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/02/multimedia/02ny-albany-01-mkcv/02ny-albany-01-mkcv-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/02/multimedia/02ny-albany-01-mkcv/02ny-albany-01-mkcv-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/02/multimedia/02ny-albany-01-mkcv/02ny-albany-01-mkcv-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/118da1a0-cf0a-5ad5-8427-5aae23744e95",
+            "url": "https://www.nytimes.com/2024/04/02/us/kidnapped-teen-shot-california-police.html",
+            "id": 100000009392821,
+            "asset_id": 100000009392821,
+            "source": "New York Times",
+            "published_date": "2024-04-02",
+            "updated": "2024-04-03 11:07:35",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Police Brutality, Misconduct and Shootings;Kidnapping and Hostages;Amber Alert;Domestic Violence;Deaths (Fatalities);Video Recordings, Downloads and Streaming;San Bernardino County (Calif)",
+            "column": null,
+            "byline": "By Jesus Jiménez",
+            "type": "Article",
+            "title": "Gunfire From Deputies Killed Teen Who Had Been Reported Kidnapped, Video Shows",
+            "abstract": "Savannah Graziano, 15, was fatally shot a day after an Amber Alert was issued for her in September 2022. Newly released video and recordings show that she was killed by deputies.",
+            "des_facet": [
+                "Police Brutality, Misconduct and Shootings",
+                "Kidnapping and Hostages",
+                "Amber Alert",
+                "Domestic Violence",
+                "Deaths (Fatalities)",
+                "Video Recordings, Downloads and Streaming"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "San Bernardino County (Calif)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Savannah Graziano",
+                    "copyright": "City of Fontana Police Department, via Associated Press",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/02/multimedia/02xp-californiateen-cvfl/02xp-californiateen-cvfl-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/02/multimedia/02xp-californiateen-cvfl/02xp-californiateen-cvfl-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/02/multimedia/02xp-californiateen-cvfl/02xp-californiateen-cvfl-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/9e3da088-2133-5194-89c6-2e6f73d96c3a",
+            "url": "https://www.nytimes.com/2024/04/01/nyregion/trump-bond-deal.html",
+            "id": 100000009332825,
+            "asset_id": 100000009332825,
+            "source": "New York Times",
+            "published_date": "2024-04-01",
+            "updated": "2024-04-02 12:10:23",
+            "section": "New York",
+            "subsection": "",
+            "nytdsection": "new york",
+            "adx_keywords": "New York State Civil Case Against Trump (452564/2022);Insurance;Trump, Donald J;James, Letitia;Knight Specialty Insurance Co;New York State",
+            "column": null,
+            "byline": "By Ben Protess",
+            "type": "Article",
+            "title": "Trump Gets Bond Deal to Ward Off $454 Million Judgment, for Now",
+            "abstract": "The guarantee means that New York’s attorney general will not be able to pursue Donald Trump’s assets and bank accounts until Mr. Trump’s appeals are settled.",
+            "des_facet": [
+                "New York State Civil Case Against Trump (452564/2022)",
+                "Insurance"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Trump, Donald J",
+                "James, Letitia",
+                "Knight Specialty Insurance Co"
+            ],
+            "geo_facet": [
+                "New York State"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Donald J. Trump was originally required to put up a bond to cover the entire financial penalty that he faces.",
+                    "copyright": "Dave Sanders for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/03/22/multimedia/00trump-bond-deal-qmtf/00trump-bond-deal-qmtf-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/03/22/multimedia/00trump-bond-deal-qmtf/00trump-bond-deal-qmtf-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/03/22/multimedia/00trump-bond-deal-qmtf/00trump-bond-deal-qmtf-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/0ab9d65a-674f-5204-8d10-2bb864cce11c",
+            "url": "https://www.nytimes.com/2024/04/02/world/middleeast/gaza-al-shifa-hospital.html",
+            "id": 100000009390776,
+            "asset_id": 100000009390776,
+            "source": "New York Times",
+            "published_date": "2024-04-02",
+            "updated": "2024-04-03 09:11:09",
+            "section": "World",
+            "subsection": "Middle East",
+            "nytdsection": "world",
+            "adx_keywords": "Israel-Gaza War (2023- );Hospitals;Defense and Military Forces;Palestinians;Civilian Casualties;Refugees and Displaced Persons;Terrorism;Al Shifa Hospital (Gaza Strip);Hamas;Israel;Gaza Strip",
+            "column": null,
+            "byline": "By Patrick Kingsley and Avishag Shaar-Yashuv",
+            "type": "Article",
+            "title": "Israeli Army Withdraws From Major Gaza Hospital, Leaving Behind a Wasteland",
+            "abstract": "Al-Shifa Hospital lies in ruins after a battle there between Israeli soldiers and Gazan gunmen. Shortly before withdrawing, the Israeli military brought journalists from The Times to witness the damage.",
+            "des_facet": [
+                "Israel-Gaza War (2023- )",
+                "Hospitals",
+                "Defense and Military Forces",
+                "Palestinians",
+                "Civilian Casualties",
+                "Refugees and Displaced Persons",
+                "Terrorism"
+            ],
+            "org_facet": [
+                "Al Shifa Hospital (Gaza Strip)",
+                "Hamas"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Israel",
+                "Gaza Strip"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Avishag Shaar-Yashuv for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/01/multimedia/01shifa-scene-zvmb-promo/01shifa-scene-zvmb-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/01/multimedia/01shifa-scene-zvmb-promo/01shifa-scene-zvmb-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/01/multimedia/01shifa-scene-zvmb-promo/01shifa-scene-zvmb-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/9c42e1fc-4f10-539b-a9bb-205a40d40744",
+            "url": "https://www.nytimes.com/2024/04/02/world/middleeast/world-central-kitchen-workers-strike-gaza.html",
+            "id": 100000009392274,
+            "asset_id": 100000009392274,
+            "source": "New York Times",
+            "published_date": "2024-04-02",
+            "updated": "2024-04-03 16:39:49",
+            "section": "World",
+            "subsection": "Middle East",
+            "nytdsection": "world",
+            "adx_keywords": "Israel-Gaza War (2023- );Humanitarian Aid;World Central Kitchen;Israel;Gaza Strip",
+            "column": null,
+            "byline": "By Adam Rasgon and Aaron Boxerman",
+            "type": "Article",
+            "title": "What We Know About the Israeli Strike That Killed 7 Aid Workers in Gaza",
+            "abstract": "Prime Minister Benjamin Netanyahu of Israel acknowledged on Tuesday a “tragic case of our forces unintentionally hitting innocent people.”",
+            "des_facet": [
+                "Israel-Gaza War (2023- )",
+                "Humanitarian Aid"
+            ],
+            "org_facet": [
+                "World Central Kitchen"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Israel",
+                "Gaza Strip"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A car used by World Central Kitchen that was hit by a strike in Deir al Balah in the central Gaza Strip.",
+                    "copyright": "Agence France-Presse — Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/02/multimedia/02mideast-crisis-WCK-what-we-know-vzfl/02mideast-crisis-WCK-what-we-know-vzfl-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/02/multimedia/02mideast-crisis-WCK-what-we-know-vzfl/02mideast-crisis-WCK-what-we-know-vzfl-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/02/multimedia/02mideast-crisis-WCK-what-we-know-vzfl/02mideast-crisis-WCK-what-we-know-vzfl-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/e0a9c1dd-2b81-5789-818f-fb55e84638c5",
+            "url": "https://www.nytimes.com/2024/04/02/opinion/economy-sentiment-inflation-anxiety.html",
+            "id": 100000009386986,
+            "asset_id": 100000009386986,
+            "source": "New York Times",
+            "published_date": "2024-04-02",
+            "updated": "2024-04-03 16:14:02",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Prices (Fares, Fees and Rates);United States Economy;Wages and Salaries;Anxiety and Stress;Income;Inflation (Economics);Polls and Public Opinion",
+            "column": null,
+            "byline": "By Justin Wolfers",
+            "type": "Article",
+            "title": "I’m an Economist. Don’t Worry. Be Happy.",
+            "abstract": "An economist explains why his lens makes him so much more optimistic about the state of our economy than the average American.",
+            "des_facet": [
+                "Prices (Fares, Fees and Rates)",
+                "United States Economy",
+                "Wages and Salaries",
+                "Anxiety and Stress",
+                "Income",
+                "Inflation (Economics)",
+                "Polls and Public Opinion"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Lenka Clayton",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/02/opinion/02wolfers/02wolfers-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/02/opinion/02wolfers/02wolfers-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/02/opinion/02wolfers/02wolfers-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/021c522e-0f36-53ad-a722-0978ffd08bff",
+            "url": "https://www.nytimes.com/2024/04/02/opinion/comstock-act-abortion-repeal.html",
+            "id": 100000009388502,
+            "asset_id": 100000009388502,
+            "source": "New York Times",
+            "published_date": "2024-04-02",
+            "updated": "2024-04-03 09:26:20",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Abortion;Abortion Drugs;Mifeprex (RU-486);Law and Legislation;United States Politics and Government;Comstock, Anthony;Supreme Court (US)",
+            "column": null,
+            "byline": "By Tina Smith",
+            "type": "Article",
+            "title": "I Hope to Repeal an Arcane Law That Could Be Misused to Ban Abortion Nationwide",
+            "abstract": "The Comstock Act is a major concern if Donald Trump is re-elected.",
+            "des_facet": [
+                "Abortion",
+                "Abortion Drugs",
+                "Mifeprex (RU-486)",
+                "Law and Legislation",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Supreme Court (US)"
+            ],
+            "per_facet": [
+                "Comstock, Anthony"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Photo illustration by Jenny Hueston for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/02/multimedia/02smith-mzfq/02smith-mzfq-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/02/multimedia/02smith-mzfq/02smith-mzfq-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/02/multimedia/02smith-mzfq/02smith-mzfq-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/b4b9a91a-8feb-5ee0-811a-f009c2e4cccf",
+            "url": "https://www.nytimes.com/2024/04/01/world/asia/china-three-body-problem-murder.html",
+            "id": 100000009389154,
+            "asset_id": 100000009389154,
+            "source": "New York Times",
+            "published_date": "2024-04-01",
+            "updated": "2024-04-02 21:52:03",
+            "section": "World",
+            "subsection": "Asia Pacific",
+            "nytdsection": "world",
+            "adx_keywords": "Television;Books and Literature;Murders, Attempted Murders and Homicides;Poisoning and Poisons;Lin Qi (1981-2020);Xu Yao (Technology Executive);Liu Cixin (1963- );Netflix Inc;Youzu Group (Yoozoo);China",
+            "column": null,
+            "byline": "By David Pierson",
+            "type": "Article",
+            "title": "The Bizarre Chinese Murder Plot Behind Netflix’s ‘3 Body Problem’",
+            "abstract": "Lin Qi, a billionaire who helped produce the science-fiction hit, was poisoned to death by a disgruntled executive. His attacker now faces the death penalty.",
+            "des_facet": [
+                "Television",
+                "Books and Literature",
+                "Murders, Attempted Murders and Homicides",
+                "Poisoning and Poisons"
+            ],
+            "org_facet": [
+                "Netflix Inc",
+                "Youzu Group (Yoozoo)"
+            ],
+            "per_facet": [
+                "Lin Qi (1981-2020)",
+                "Xu Yao (Technology Executive)",
+                "Liu Cixin (1963- )"
+            ],
+            "geo_facet": [
+                "China"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Lin Qi spent millions to buy the rights to a Chinese science-fiction novel called “The Three-Body Problem” but was murdered before it launched as a television series.",
+                    "copyright": "Zhang Zhi/Red Star News/Visual China Group, via Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/01/multimedia/01china-threebodyproblem-tzjv/01china-threebodyproblem-tzjv-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/01/multimedia/01china-threebodyproblem-tzjv/01china-threebodyproblem-tzjv-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/01/multimedia/01china-threebodyproblem-tzjv/01china-threebodyproblem-tzjv-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/dac6be1a-d2aa-558a-b259-23233434dd23",
+            "url": "https://www.nytimes.com/2024/04/01/us/politics/trump-israel-conservative.html",
+            "id": 100000009385447,
+            "asset_id": 100000009385447,
+            "source": "New York Times",
+            "published_date": "2024-04-01",
+            "updated": "2024-04-02 07:23:26",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Israel-Gaza War (2023- );Palestinians;United States International Relations;Trump, Donald J;Bolton, John R;Netanyahu, Benjamin;Friedman, David M (1958- );Kushner, Jared;Israel Hayom;Hamas;Gaza Strip;Israel",
+            "column": null,
+            "byline": "By Jonathan Swan",
+            "type": "Article",
+            "title": "Trump’s Call for Israel to ‘Finish Up’ War Alarms Some on the Right",
+            "abstract": "Recent remarks he made urging an end to the Gaza conflict, with no insistence on freeing Israeli hostages first, were another departure from conservatives’ support for Benjamin Netanyahu.",
+            "des_facet": [
+                "Israel-Gaza War (2023- )",
+                "Palestinians",
+                "United States International Relations"
+            ],
+            "org_facet": [
+                "Israel Hayom",
+                "Hamas"
+            ],
+            "per_facet": [
+                "Trump, Donald J",
+                "Bolton, John R",
+                "Netanyahu, Benjamin",
+                "Friedman, David M (1958- )",
+                "Kushner, Jared"
+            ],
+            "geo_facet": [
+                "Gaza Strip",
+                "Israel"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In a recent interview with Israeli journalists, former President Donald J. Trump said that Israel was losing public support for the war in Gaza and that Prime Minister Benjamin Netanyahu should end the conflict soon. ",
+                    "copyright": "Doug Mills/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/01/multimedia/01pol-trump-israel-topart-mgcj/01pol-trump-israel-topart-mgcj-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/01/multimedia/01pol-trump-israel-topart-mgcj/01pol-trump-israel-topart-mgcj-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/01/multimedia/01pol-trump-israel-topart-mgcj/01pol-trump-israel-topart-mgcj-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/dc7a5b99-c0ae-50b5-a4fd-e336e26b5dea",
+            "url": "https://www.nytimes.com/2024/04/02/us/march-madness-women-iowa-lsu.html",
+            "id": 100000009390311,
+            "asset_id": 100000009390311,
+            "source": "New York Times",
+            "published_date": "2024-04-02",
+            "updated": "2024-04-03 13:06:43",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Basketball (College);NCAA Basketball Championships (Women);Clark, Caitlin (2002- );Reese, Angel (2002- );University of Iowa;Louisiana State University",
+            "column": null,
+            "byline": "By Billy Witz",
+            "type": "Article",
+            "title": "The Caitlin Clark Show Rolls On",
+            "abstract": "While off-the-court drama has raged in the women’s tournament, Clark and Iowa dispatched with their foils from last season en route to the Final Four.",
+            "des_facet": [
+                "Basketball (College)",
+                "NCAA Basketball Championships (Women)"
+            ],
+            "org_facet": [
+                "University of Iowa",
+                "Louisiana State University"
+            ],
+            "per_facet": [
+                "Clark, Caitlin (2002- )",
+                "Reese, Angel (2002- )"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Caitlin Clark and Angel Reese have done little but shower each other with admiration throughout the tournament — for their games and their competitiveness.",
+                    "copyright": "Andy Lyons/Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/02/multimedia/02nat-basketball-women1-btwk/02nat-basketball-women1-btwk-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/02/multimedia/02nat-basketball-women1-btwk/02nat-basketball-women1-btwk-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/02/multimedia/02nat-basketball-women1-btwk/02nat-basketball-women1-btwk-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/0a9ab5ac-a54b-52e1-82de-f29562d2781c",
+            "url": "https://www.nytimes.com/2024/04/02/realestate/newfoundland-canada-saltbox-house-renovation.html",
+            "id": 100000009384292,
+            "asset_id": 100000009384292,
+            "source": "New York Times",
+            "published_date": "2024-04-02",
+            "updated": "2024-04-03 11:51:08",
+            "section": "Real Estate",
+            "subsection": "",
+            "nytdsection": "real estate",
+            "adx_keywords": "Real Estate and Housing (Residential);Interior Design and Furnishings;Restoration and Renovation;Home Repairs and Improvements;Architecture;Second Homes and Non-Primary Residences;Islands;Newfoundland (Canada);Salvage (Newfoundland)",
+            "column": null,
+            "byline": "By Tim McKeough",
+            "type": "Article",
+            "title": "A Second Home That’s Far Away From It All",
+            "abstract": "Two saltbox houses on the island of Newfoundland, in Canada, were hard to resist. What would be harder still: Renovating them without road access.",
+            "des_facet": [
+                "Real Estate and Housing (Residential)",
+                "Interior Design and Furnishings",
+                "Restoration and Renovation",
+                "Home Repairs and Improvements",
+                "Architecture",
+                "Second Homes and Non-Primary Residences",
+                "Islands"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Newfoundland (Canada)",
+                "Salvage (Newfoundland)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Julian Parkinson",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/02/realestate/02ONLOCATION-NEWFOUNDLAND-slide-4JNW/02ONLOCATION-NEWFOUNDLAND-slide-4JNW-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/02/realestate/02ONLOCATION-NEWFOUNDLAND-slide-4JNW/02ONLOCATION-NEWFOUNDLAND-slide-4JNW-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/02/realestate/02ONLOCATION-NEWFOUNDLAND-slide-4JNW/02ONLOCATION-NEWFOUNDLAND-slide-4JNW-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/51d8040a-63fb-5672-8a94-62f87a826eae",
+            "url": "https://www.nytimes.com/2024/04/02/opinion/the-appalling-tactics-of-the-free-palestine-movement.html",
+            "id": 100000009392800,
+            "asset_id": 100000009392800,
+            "source": "New York Times",
+            "published_date": "2024-04-02",
+            "updated": "2024-04-03 11:09:58",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Demonstrations, Protests and Riots;Israel-Gaza War (2023- );Anti-Semitism;Colleges and Universities;Fringe Groups and Movements",
+            "column": null,
+            "byline": "By Bret Stephens",
+            "type": "Article",
+            "title": "The Appalling Tactics of the ‘Free Palestine’ Movement",
+            "abstract": "What does it say about a cause that won’t weed out its worst members or stamp out its worst ideas?",
+            "des_facet": [
+                "Demonstrations, Protests and Riots",
+                "Israel-Gaza War (2023- )",
+                "Anti-Semitism",
+                "Colleges and Universities",
+                "Fringe Groups and Movements"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Andrew Lichtenstein/Corbis, via Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/04/opinion/02stephens/02stephens-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/04/opinion/02stephens/02stephens-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/04/opinion/02stephens/02stephens-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/d245a803-efa7-53bb-bb59-30da3dc35c69",
+            "url": "https://www.nytimes.com/2024/04/03/world/europe/zelensky-ukraine-military-draft-age.html",
+            "id": 100000009394394,
+            "asset_id": 100000009394394,
+            "source": "New York Times",
+            "published_date": "2024-04-03",
+            "updated": "2024-04-03 14:15:29",
+            "section": "World",
+            "subsection": "Europe",
+            "nytdsection": "world",
+            "adx_keywords": "Draft and Recruitment (Military);Russian Invasion of Ukraine (2022);Defense and Military Forces;Law and Legislation;Zelensky, Volodymyr;Ukraine",
+            "column": null,
+            "byline": "By Andrew E. Kramer",
+            "type": "Article",
+            "title": "Zelensky Lowers Ukraine’s Draft Age, Risking Political Backlash",
+            "abstract": "The idea of requiring more men to join the fight against Russia’s invasion has become toxic, but Russia is not relenting in its assault.",
+            "des_facet": [
+                "Draft and Recruitment (Military)",
+                "Russian Invasion of Ukraine (2022)",
+                "Defense and Military Forces",
+                "Law and Legislation"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Zelensky, Volodymyr"
+            ],
+            "geo_facet": [
+                "Ukraine"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Ukrainian soldiers training in the country’s Donetsk region on Monday.",
+                    "copyright": "Nicole Tung for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/03/multimedia/03ukraine-mobilization-02-gjql/03ukraine-mobilization-02-gjql-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/03/multimedia/03ukraine-mobilization-02-gjql/03ukraine-mobilization-02-gjql-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/03/multimedia/03ukraine-mobilization-02-gjql/03ukraine-mobilization-02-gjql-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/caaac12f-41c7-5925-b944-7ef78d6e43e3",
+            "url": "https://www.nytimes.com/2024/04/03/us/politics/trump-documents-case-judge-cannon.html",
+            "id": 100000009392440,
+            "asset_id": 100000009392440,
+            "source": "New York Times",
+            "published_date": "2024-04-03",
+            "updated": "2024-04-03 16:54:18",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Federal Criminal Case Against Trump (Documents Case);Classified Information and State Secrets;United States Politics and Government;Special Prosecutors (Independent Counsel);Cannon, Aileen M;Smith, Jack (Attorney);Trump, Donald J;Mar-a-Lago (Palm Beach, Fla);National Archives and Records Administration",
+            "column": null,
+            "byline": "By Alan Feuer",
+            "type": "Article",
+            "title": "Frustrated Prosecutors Ask Trump Documents Judge to Act on Key Claim",
+            "abstract": "The push for a quick decision on one of the former president’s most far-fetched claims is an unusual and risky move in a case Judge Aileen Cannon has allowed to become bogged down.",
+            "des_facet": [
+                "Federal Criminal Case Against Trump (Documents Case)",
+                "Classified Information and State Secrets",
+                "United States Politics and Government",
+                "Special Prosecutors (Independent Counsel)"
+            ],
+            "org_facet": [
+                "Mar-a-Lago (Palm Beach, Fla)",
+                "National Archives and Records Administration"
+            ],
+            "per_facet": [
+                "Cannon, Aileen M",
+                "Smith, Jack (Attorney)",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Supporters of former President Donald J. Trump outside a federal courthouse in Fort Pierce, Fla., in February. The case there has been slowed by a logjam of unresolved legal issues and curious procedural requests.",
+                    "copyright": "Joe Raedle/Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/02/multimedia/02dc-trumpdocuments-fzkh/02dc-trumpdocuments-fzkh-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/02/multimedia/02dc-trumpdocuments-fzkh/02dc-trumpdocuments-fzkh-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/02/multimedia/02dc-trumpdocuments-fzkh/02dc-trumpdocuments-fzkh-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/bf77cc3c-2d4c-54d9-8ae9-e8dfce0fb9f9",
+            "url": "https://www.nytimes.com/2024/04/02/business/economy/global-economic-growth.html",
+            "id": 100000009374022,
+            "asset_id": 100000009374022,
+            "source": "New York Times",
+            "published_date": "2024-04-02",
+            "updated": "2024-04-03 12:08:18",
+            "section": "Business",
+            "subsection": "Economy",
+            "nytdsection": "business",
+            "adx_keywords": "Developing Countries;Economic Conditions and Trends;International Trade and World Market;Supply Chain;Labor and Jobs;International Relations;Income Inequality;Factories and Manufacturing;Embargoes and Sanctions;Politics and Government;Banking and Financial Institutions;Foreign Investments;Bangladesh;Africa;Taiwan;South Korea;China;Far East, South and Southeast Asia and Pacific Areas;India",
+            "column": null,
+            "byline": "By Patricia Cohen",
+            "type": "Article",
+            "title": "Poor Nations Are Writing a New Handbook for Getting Rich",
+            "abstract": "Economies focused on exports have lifted millions out of poverty, but epochal changes in trade, supply chains and technology are making it a lot harder.",
+            "des_facet": [
+                "Developing Countries",
+                "Economic Conditions and Trends",
+                "International Trade and World Market",
+                "Supply Chain",
+                "Labor and Jobs",
+                "International Relations",
+                "Income Inequality",
+                "Factories and Manufacturing",
+                "Embargoes and Sanctions",
+                "Politics and Government",
+                "Banking and Financial Institutions",
+                "Foreign Investments"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Bangladesh",
+                "Africa",
+                "Taiwan",
+                "South Korea",
+                "China",
+                "Far East, South and Southeast Asia and Pacific Areas",
+                "India"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Garment factory workers after their shift in Dhaka, Bangladesh. The country built its success on turning farmers into textile workers.",
+                    "copyright": "Atul Loke for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/04/multimedia/00global-econ-01-kgbz/00global-econ-01-kgbz-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/04/multimedia/00global-econ-01-kgbz/00global-econ-01-kgbz-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/04/04/multimedia/00global-econ-01-kgbz/00global-econ-01-kgbz-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        }
+    ]
+}
