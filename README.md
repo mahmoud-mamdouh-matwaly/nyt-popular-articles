@@ -41,3 +41,4 @@ In the project directory, you can run:
 5. [Chakra UI](https://chakra-ui.com/)
 6. [Cypress](https://www.cypress.io/)
 7. [Typescript](https://www.typescriptlang.org/)
+8. [CI-github-actions](https://github.com/mahmoud-mamdouh-matwaly/nyt-popular-articles/actions)
