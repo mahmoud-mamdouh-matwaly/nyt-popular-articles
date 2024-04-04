@@ -9,7 +9,7 @@ on:
       - main
 
 jobs:
-  lint:
+  integration:
     runs-on: ubuntu-latest
 
     steps:
@@ -26,10 +26,7 @@ jobs:
 
       - name: Linting
         run: yarn run lint:check
-      
-  coverage: 
-    runs-on: ubuntu-latest
-    steps:
+
       - name: Run tests and collect coverage
         run: yarn coverage
       - name: Upload coverage report
