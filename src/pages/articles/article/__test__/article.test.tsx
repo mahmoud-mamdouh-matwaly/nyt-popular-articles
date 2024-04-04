@@ -1,6 +1,6 @@
 import React from 'react'
 import { render, screen } from '@testing-library/react'
-import ArticleDetails from 'pages/articles/article'
+import ArticleDetails from '../.'
 
 jest.mock('react-router-dom', () => ({
   ...jest.requireActual('react-router-dom'),

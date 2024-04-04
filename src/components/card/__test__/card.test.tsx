@@ -1,6 +1,6 @@
 import React from 'react'
 import { render, screen } from '@testing-library/react'
-import Card from 'components/card'
+import Card from '../.'
 
 const mockArticle = {
   id: 1,

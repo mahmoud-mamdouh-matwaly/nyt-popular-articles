@@ -1,6 +1,6 @@
 import React from 'react'
 import { render } from '@testing-library/react'
-import {BaseSpinner} from 'components/spinner' 
+import {BaseSpinner} from '../.' 
 
 describe('BaseSpinner component', () => {
   it('renders a spinner with default props', () => {

@@ -1,56 +1,44 @@
-## Introduction with NYT-Articles:
-
-## Getting Started
-
 ## Installation & build
 
-1. In the project using Node version `node ≥ 18` & Yarn version `1.22.19`.
+1. In the project using Node version `node ≥ 20` & Yarn version `1.22.19`, *Note
+Don't use `node 19` because cypress doesn't run well.*
 
-2. Run `yarn install` to install the project dependencies.
+2. Run `yarn install`
 
-3. Run `yarn prepare` to install husky improves your commits.
-
-4. Run `cp .env.example .env` generates a key which is required to run the application.
-
-5. Run `yarn run build` to building our library with both Commonjs and ES Modules, This will allow our component to have more compatibility in projects with different JavaScript versions.
+3. Run `cp .env.example .env` generates a key which is required to run the application.*Note
+set these values on env file*
+`base url ===> https://api.nytimes.com/svc/mostpopular/v2/viewed` and
+`api key ===> zJGbCG8VmASOpvhFAdaXLQc3jVpjAPOU`.
 
 ### Available Scripts
 
 In the project directory, you can run:
 
-#### `yarn start`
+#### Start & Build
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+ 1. `yarn start`
+ 2. `yarn build`
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+#### Testing
 
-#### `yarn test`
+1. `yarn test`
+2. `yarn cypress:open`
+3. `yarn coverage`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#### Linting & Prettier
 
-#### `yarn run build`
+1. `yarn lint:check`
+2. `yarn lint:fix`
+3. `yarn prettier`
+4. `yarn format`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-### Linting & Prettier
-
- Linting is the automated checking of your source code for programmatic and stylistic errors.
-
-1. `yarn lint:check`, Run to check `Linting`.
-2. `yarn lint:fix`, Run to fix `Linting`.
-3. `yarn prettier`, Run Prettier.
-4. `yarn format`, Run Prettier to write.
-
-#### Tools and Packages
+### Tools and Packages
 
 1. [React](https://react.dev/)
 2. [React Router](https://reactrouter.com/en/main)
 3. [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 4. [Axios](https://axios-http.com/docs/intro)
+5. [Chakra UI](https://chakra-ui.com/)
+6. [Cypress](https://www.cypress.io/)
+7. [Typescript](https://www.typescriptlang.org/)
+8. [CI-github-actions](https://github.com/mahmoud-mamdouh-matwaly/nyt-popular-articles/actions)
