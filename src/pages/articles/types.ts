@@ -17,7 +17,6 @@ export interface IArticle {
   id: number
   title: string
   abstract: string
-  pub_date: string
   published_date: string
   media: IMedia[]
 }
