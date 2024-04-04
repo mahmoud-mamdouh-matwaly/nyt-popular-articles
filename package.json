@@ -33,7 +33,7 @@
     "prepare": "husky",
     "cypress:open": "npx cypress open",
     "cypress:run": "npx cypress run",
-    "coverage":"yarn test -- --coverage"
+    "coverage":"yarn test --coverage"
   },
   "eslintConfig": {
     "extends": [
