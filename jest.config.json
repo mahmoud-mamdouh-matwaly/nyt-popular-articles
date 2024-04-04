@@ -1,0 +1,10 @@
+ {
+    "preset": "ts-jest",
+    "collectCoverageFrom": [
+        "src/**/*.tsx",  
+        "!src/**/*.test.tsx"
+      ],
+    "testEnvironment": "jsdom",
+    "collectCoverage": true,
+    "coverageReporters": ["json", "lcov"]
+}
