@@ -9,7 +9,7 @@ on:
       - main
 
 jobs:
-  lint:
+  integration:
     runs-on: ubuntu-latest
 
     steps:
@@ -26,3 +26,11 @@ jobs:
 
       - name: Linting
         run: yarn run lint:check
+
+      - name: Run tests and collect coverage
+        run: yarn coverage
+      - name: Upload coverage report
+        uses: actions/upload-artifact@v4
+        with:
+          name: coverage
+          path: coverage
